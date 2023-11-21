@@ -1,0 +1,74 @@
+<DOCTYPE HTML>
+<html>
+    <head>
+        <tittle>flower</tittle>
+        <link rel="stylesheet"href="flower.css">
+    </head>
+    <body>
+        <div class="container"
+        <h1 class="storename">The Brew box</h1>
+        <p class="abcname">flower smells like freshly ground sravani</p>
+        <button class="login.button">click here for login button(selectionlogin.button)</button>
+        <p class="login.button">click here for login button(selctionlogin.button)</p>
+        <p class="single.button">click here for single button(selectionsfrist.button)</p>
+         
+        <button class="single.button">click here for login button(selectionsingle.button)</button>
+        <button class="middle.button">click here for middle button(selectionmiddle.button)</button>
+        <p class="middle.button">click here for middle button(selectionmiddle.page)</p>
+         
+        <button class="last.button">click here for last button(selectionlast.button)</button>
+        <p class="last.button"> click here for last button(selectionlas.page)</P>
+            
+        <button class="sing in page">click here for sing in page(selectionsign in page)</button>
+        <p class="sing in page">click here for sing in page(selectionsingin.page)</p>
+         
+        <button class="register.page">click here for register(selectionregister.page)</button>
+        <p class="register page">click here for register page(selectionregister.page)</p>
+         
+        <button class="dropdown">click here for dropdown(selectiondropdown)</button>
+        <p class="dropdown">click here for dropdown(selection.page)</p>
+         
+        <button class="input">click here for input(selectioninput)</button>
+        <p class="input">click here for input(selection input.page)</p>
+         
+        <button class="layout">click here for layout(selectionlayout)</button>
+        <p class="layout">click here for layout(selection layout)</p>
+         
+        <button class="checkbox">click here for checkbox(selectioncheckbox)</button>
+        <p class="checkbox">click here for checkbox(selection checkbox)</p>
+
+        <button class="form">click here for form(selectionform)</button>
+        <p class="form">click here for form(selection form)</p>
+         
+        <button class="result">click here for result(selectionresult)</button>
+        <p class="result">click here for result(selection result)</p>
+        </div>
+           </body>
+           </html>
+        </body>
+        </head> 
+    </html>       
+
+
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+
+
+
+            
+        
+    
+        
+         
